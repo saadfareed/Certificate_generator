@@ -1,7 +1,7 @@
 # Generate-Certificate-using-Python3
 A python script which helps to generate certificate for the attendee
 
-<h1 align="center">How you can run it?</h1>
+<h1 align="center">How you make this code feasible for your Template?</h1>
 <br>
 <p>
 1:copy your template of certificate in the same directory where you find Template.jpeg.
@@ -25,3 +25,4 @@ A python script which helps to generate certificate for the attendee
 5: And if you want to change font used for Signatures you should change fox = ImageFont.truetype("PWSignaturetwo.ttf", 50) to 
   fox = ImageFont.truetype("font you want to use", size of font)
 </p>
+<h2 align="center">Next Steps are How you Run the code?</h2>

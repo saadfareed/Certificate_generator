@@ -1,4 +1,4 @@
-# Generate-Certificate-using-Python3
+<h1 align="center">Generate-Certificate-using-Python3</h1>
 A python script which helps to generate certificate for the attendee
 
 <h1 align="center">How you make this code feasible for your Template?</h1>

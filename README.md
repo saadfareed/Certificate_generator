@@ -22,5 +22,6 @@ A python script which helps to generate certificate for the attendee
 </p>
 <br>
 <p>
-5: And if you want to change font used for Signatures you should change fox = ImageFont.truetype("PWSignaturetwo.ttf", 50) to fox = ImageFont.truetype("font you want to use", size of font)
+5: And if you want to change font used for Signatures you should change fox = ImageFont.truetype("PWSignaturetwo.ttf", 50) to 
+  fox = ImageFont.truetype("font you want to use", size of font)
 </p>

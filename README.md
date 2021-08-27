@@ -9,7 +9,7 @@
 </p>
 <br>
 <p>
-3:if you want to change font you have to first download font <a href="https://www.1001fonts.com/signature-fonts.html?page=2">Download from Font here!</a>
+3:if you want to change font you have to first download font <a href="https://www.1001fonts.com/signature-fonts.html?page=2">Download Font from here!</a>
 
 </p>
 <br>

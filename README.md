@@ -15,3 +15,11 @@ A python script which helps to generate certificate for the attendee
 3:if you want to change font you have to first download font <a href="https://www.1001fonts.com/signature-fonts.html?page=2">Download Font here!</a>
 
 </p>
+<br>
+<p>
+4: Which font do you change if you want to change font used for attendees name you should change fon = ImageFont.truetype("arial.ttf", 60) to fon = ImageFont.truetype("font you want to use", size of font)
+</p>
+<br>
+<p>
+5: Which font do you change if you want to change font used for Signatures you should change fox = ImageFont.truetype("PWSignaturetwo.ttf", 50) to fox = ImageFont.truetype("font you want to use", size of font)
+</p>

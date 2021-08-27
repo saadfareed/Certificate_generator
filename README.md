@@ -11,6 +11,6 @@ A python script which helps to generate certificate for the attendee
 2:Make sure you name it Template.jpeg if you don't then you have to change im = Image.open(r'Template.jpg') to im = Image.open(r'name of your template with extension')
 </p>
 <br>
-<h3>
+<p>
 3:if you want to change font you have to first download font
-
+</p>

@@ -17,7 +17,8 @@ A python script which helps to generate certificate for the attendee
 </p>
 <br>
 <p>
-4: Which font do you change if you want to change font used for attendees name you should change fon = ImageFont.truetype("arial.ttf", 60) to fon = ImageFont.truetype("font you want to use", size of font)
+4: Which font do you change if you want to change font used for attendees name you should change fon = ImageFont.truetype("arial.ttf", 60) to 
+  fon = ImageFont.truetype("font you want to use", size of font)
 </p>
 <br>
 <p>

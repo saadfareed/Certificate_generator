@@ -1,7 +1,7 @@
 # Generate-Certificate-using-Python3
 A python script which helps to generate certificate for the attendee
 
-#How you can run it?
+<h1 align="center">How you can run it?</h1>
 <br>
 1:copy your template of certificate in the same directory where you find Template.jpeg.
 <br>

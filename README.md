@@ -38,7 +38,7 @@
   <p>
   4:pip install PIL
   </p>
-<h3 >Run code:</h3>
+<h2><u>Run code:</u></h2>
 <p>
   python Certificate_Generator.py
 </p>

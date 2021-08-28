@@ -24,7 +24,6 @@
 </p>
 <hr>
 <h2 align="center">Next Steps are How you Run the code?</h2>
-<br>
 <h3>Dependencies Installation</h3>
 <p>
   1;install python3 (I am using python 3.7.6)

@@ -25,14 +25,20 @@
 <hr>
 <h2 align="center">Next Steps are How you Run the code?</h2>
 <br>
-<h3 align="center">Dependencies Installation</h3>
+<h3>Dependencies Installation</h3>
 <p>
   1;install python3 (I am using python 3.7.6)
+  </P>
+  <p>
   2;pip install pandas
+  </p>
+  <p>
   3:pip install os
+  </p>
+  <p>
   4:pip install PIL
   </p>
-<h3 align="center">Run code:</h3>
+<h3 >Run code:</h3>
 <p>
   python Certificate_Generator.py
 </p>

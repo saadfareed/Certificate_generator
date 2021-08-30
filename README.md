@@ -41,9 +41,9 @@
 <h3>Run code:</h3>
 <p>python Certificate_Generator.py</p>
 <hr>
-<h1 align="center">Certificate Generator</h1>
+<h1 align="center">Certificate Generator Output Result:</h1>
 <a href="#">
   <div align="center">
-    <img src="/certificates/certificate_Mohsin Ikram.jpeg" width='700'/>
+    <img src="/certificates/certificate_Mohsin Ikram.jpeg" width='800'/>
   </div>
 </a>

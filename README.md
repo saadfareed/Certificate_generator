@@ -47,3 +47,8 @@
     <img src="/certificates/certificate_Mohsin Ikram.jpeg" width='800'/>
   </div>
 </a>
+<a href="#">
+  <div align="center">
+    <img src="/certificates/certificate_Mohsin Ikram.pdf" width='800'/>
+  </div>
+</a>

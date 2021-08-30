@@ -42,4 +42,4 @@
 <p>python Certificate_Generator.py</p>
 <hr>
 <h2>Output:</h2>
-
+<a href="Certificate_generator/certificates/certificate_Mohsin Ikram.jpeg" target="blank"><img align="center" src="Certificate_generator/certificates/certificate_Mohsin Ikram.jpeg" alt="SaadFareed" height="30" width="40" /></a>

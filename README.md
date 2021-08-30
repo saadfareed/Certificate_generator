@@ -44,6 +44,6 @@
 <h1 align="center">Certificate Generator</h1>
 <a href="#">
   <div align="center">
-    <img src="Certificate_generator/certificates/certificate_Mohsin Ikram.jpeg" width='700'/>
+    <img src="/certificates/certificate_Mohsin Ikram.jpeg" width='700'/>
   </div>
 </a>

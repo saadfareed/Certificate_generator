@@ -1,3 +1,9 @@
+<h1 align="center">Certificate Generator Input Template:</h1>
+<a href="#">
+  <div align="center">
+    <img src="Template.jpg" width='800'/>
+  </div>
+</a>
 <h1 align="center">How you make this code feasible for your Template?</h1>
 <br>
 <p>

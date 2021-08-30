@@ -41,4 +41,4 @@
 <h3>Run code:</h3>
 <p>python Certificate_Generator.py</p>
 <hr>
-<h1>Output</h1>
+<h2>Output:</h2>

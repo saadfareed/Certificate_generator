@@ -40,3 +40,4 @@
   <hr>
 <h3>Run code:</h3>
 <p>python Certificate_Generator.py</p>
+<h2 align="center">Output</h2>
